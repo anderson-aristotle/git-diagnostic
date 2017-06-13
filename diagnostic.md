@@ -8,7 +8,7 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-# Remove this comment and place your answer here. -->
+# Remove this comment and place your answer here.
 ```
 
 2.What do you do after cloning a repository, before you start making any
@@ -20,14 +20,14 @@ changes/additions?
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-# Remove this comment and place your answer here. -->
+# Remove this comment and place your answer here.
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
 ```sh
-# Remove this comment and place your answer here. -->
+# Remove this comment and place your answer here.
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
@@ -37,13 +37,10 @@ area. What command do we use to stage a file named `diagnostic.md`?
 # Remove this comment and place your answer here.
 ```
 
-6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
-<!-- Remove this comment and place your answer here. -->
-
-7.What are the two formatting items you **need** to make up your commit message?
+6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`. What are the two formatting items you **need** to make up your commit message?
 
 <!-- Remove this comment and place your answer here. -->
 
-8.Should you ever edit published history?
+7.Should you ever edit published history?
 
 <!-- Remove this comment and place your answer here. -->
