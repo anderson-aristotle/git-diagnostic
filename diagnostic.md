@@ -37,7 +37,7 @@ area. What command do we use to stage a file named `diagnostic.md`?
 # Remove this comment and place your answer here.
 ```
 
-6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`. What are the two formatting items you **need** to make up your commit message?
+6.Once `diagnostic.md` is staged, we have to make a commit with the command `git commit`. What are the two formatting items you **need** to make up your commit message?
 
 <!-- Remove this comment and place your answer here. -->
 
