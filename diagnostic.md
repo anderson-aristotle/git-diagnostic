@@ -41,6 +41,7 @@ area. What command do we use to stage a file named `diagnostic.md`?
 
 <!-- Remove this comment and place your answer here. -->
 
-7.Should you ever edit published history?
+7.Should you ever click the edit button on GitHub?
+(https://imgur.com/a/zJnEE "Edit button")
 
 <!-- Remove this comment and place your answer here. -->
