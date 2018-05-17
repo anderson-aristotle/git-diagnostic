@@ -11,8 +11,8 @@ this repository in your answer.
 # Remove this comment and place your answer here.
 ```
 
-2.What do you do after cloning a repository, before you start making any
-changes/additions?
+2.What do you do after cloning a repository and changing into the cloned
+directory, before you start making any changes/additions?
 
 <!-- Remove this comment and place your answer here. -->
 
