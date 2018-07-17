@@ -14,7 +14,9 @@ this repository in your answer.
 2.What do you do after cloning a repository and changing into the cloned
 directory, before you start making any changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+```sh
+# Remove this comment and place your answer here.
+```
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
@@ -39,9 +41,12 @@ area. What command do we use to stage a file named `diagnostic.md`?
 
 6.Once `diagnostic.md` is staged, we have to make a commit with the command `git commit`. What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+```sh
+# Remove this comment and place your answer here.
+```
 
-7.Should you ever click the edit button on GitHub?
-(https://imgur.com/a/zJnEE "Edit button")
+7.Should you ever click the edit button on GitHub? ![Edit Button](https://imgur.com/a/zJnEE)
 
-<!-- Remove this comment and place your answer here. -->
+```sh
+# Remove this comment and place your answer here.
+```
